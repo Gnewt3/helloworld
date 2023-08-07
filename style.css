@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+#h1{
+    border: 2px solid purple;
+    border-radius: 20px;
+    background-color: purple;
+    color: white;
+    padding: 20px;
+}
